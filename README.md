@@ -1,5 +1,5 @@
 # Pinteresting
 
-This is my first web application in ruby on rails with the help of One Month course by Mattan Griffel
+This is my first web application in ruby on rails with the help of [*One Month Rails*](http://onemonthrails.com) course.
 
-Modifica del file readme per fare un po di allenamento.
+by Livio Bojonca
