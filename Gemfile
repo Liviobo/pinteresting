@@ -9,7 +9,6 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'bootstrap-sass'
-gem 'rake', '~> 10.4', '>= 10.4.2'
 gem 'sdoc', '~> 0.4.0'
 gem 'devise', '~> 3.5', '>= 3.5.3'
 

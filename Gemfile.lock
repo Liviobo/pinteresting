@@ -142,7 +142,6 @@ DEPENDENCIES
   pg
   rails (= 4.1.8)
   rails_12factor
-  rake (~> 10.4, >= 10.4.2)
   sass-rails (~> 4.0.3)
   sdoc (~> 0.4.0)
   sqlite3
