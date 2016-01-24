@@ -13,6 +13,7 @@ gem 'sdoc', '~> 0.4.0'
 gem 'devise', '~> 3.5', '>= 3.5.3'
 gem 'rb-readline', '0.4.2', require: 'readline'
 gem 'paperclip', '~> 4.2'
+gem 'aws-sdk', '< 2.0'
 
 group :development, :test do
 	gem 'sqlite3'
